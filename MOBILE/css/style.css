@@ -51,3 +51,69 @@ input[type=text], input[type=tel], textarea {
     vertical-align: middle;
     background-size: 72px 256px;
 }
+
+.block-header img{
+    width: 100%;
+    max-width: 640px;
+    display: block;
+    margin: auto
+}
+.container{
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+p{
+    padding: 0 10px;
+    font-family: Arimo;
+    font-size: 17px;
+}
+
+.background-black p{
+    color: white;
+}
+.outline img {
+    width: 100%;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+.background-black a:link{
+    color: white;
+    -webkit-text-fill-color: white;
+
+}
+.background-white a:link{
+    color: black;
+    -webkit-text-fill-color: black;
+}
+
+.background-white a{
+    color: black;
+}
+.background-black a{
+    color: white;
+}
+.img-fullscreen img{
+    width: 100%;
+}
+.how-richkid .container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.combo-richkid .container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.combo-cheapkid .container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.del-marginbottom{
+    margin-bottom: 0 !important;
+}
+.how-richkid img, .combo-cheapkid img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
