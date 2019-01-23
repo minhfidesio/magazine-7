@@ -111,3 +111,8 @@ p{
 .richkid-cheapkid .column:nth-child(odd){
     margin-top: 70px;
 }
+.img-foot img{
+    width: 100%;
+    margin-top: 10px;
+    display: block;
+}
