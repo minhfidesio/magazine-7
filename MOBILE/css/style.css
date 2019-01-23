@@ -67,6 +67,7 @@ p{
     padding: 0 10px;
     font-family: Arimo;
     font-size: 17px;
+    line-height: 30px !important;
 }
 
 .background-black p{
