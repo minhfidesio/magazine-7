@@ -41,14 +41,23 @@ p{
     line-height: 30px !important;
     color: white;
 }
+.background-white a{
+    color: black;
+}
+.background-black a{
+    color: white;
+}
 .font-bold{
     font-weight: bold;
 }
 .background-black a:link{
     color: white;
+    -webkit-text-fill-color: white;
+
 }
 .background-white a:link{
     color: black;
+    -webkit-text-fill-color: black;
 }
 .block-header img{
     width: 100%;
