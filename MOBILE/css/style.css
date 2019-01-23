@@ -98,22 +98,21 @@ p{
 .img-fullscreen img{
     width: 100%;
 }
-.how-richkid .container{
-    margin-top: 10px;
-    margin-bottom: 10px;
+.how-richkid .container, .combo-cheapkid .container, .combo-richkid .container{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-.combo-richkid .container{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-.combo-cheapkid .container{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
+
 .del-marginbottom{
     margin-bottom: 0 !important;
 }
+.del-margintop{
+    margin-top: 0 !important;
+}
 .how-richkid img, .combo-cheapkid img{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.outline img{
+    margin-top: 0;   
 }
