@@ -41,6 +41,15 @@ p{
     line-height: 30px !important;
     color: white;
 }
+.font-bold{
+    font-weight: bold;
+}
+.background-black a:link{
+    color: white;
+}
+.background-white a:link{
+    color: black;
+}
 .block-header img{
     width: 100%;
 }
